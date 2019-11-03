@@ -5,3 +5,6 @@ about linux, ubuntu, package install, problem s
 * vs code
 * git
 
+## extension of vscode
+* c
+* python
